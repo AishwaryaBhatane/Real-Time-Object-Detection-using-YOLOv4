@@ -92,7 +92,6 @@ Bottle 0.75
 * Real-time Video Processing
 * GUI Development with Tkinter
 
----
 
 # 🔮 Future Improvements
 
@@ -103,10 +102,3 @@ Bottle 0.75
 * Deploy as a web application
 
 
-# 📬 Contact
-
-If you found this project helpful:
-
-⭐ Star the repository
-💻 Check out my other projects on GitHub
-🔗 Connect with me on LinkedIn
